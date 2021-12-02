@@ -8,9 +8,6 @@ public class Main {
 
         //git upload process
 
-
-
-
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter Your String");
         String str = scan. nextLine();
